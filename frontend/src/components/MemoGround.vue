@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import Header from "./Header.vue";
-import Footer from "./Footer.vue";
-import Memo from "./Memo.vue";
+import Header from "./MemoHeader.vue";
+import Footer from "./MemoFooter.vue";
+import Memo from "./MemoBody.vue";
 
 export default {
   components:{Header, Footer, Memo}
